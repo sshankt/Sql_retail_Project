@@ -216,6 +216,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/sshankt/)
-- **Website**: [Join our community to learn and grow together](https://sshankt.github.io/)
+- **Website**: [Visit My Website](https://sshankt.github.io/)
 
 Thank you for your support, and I look forward to connecting with you!
